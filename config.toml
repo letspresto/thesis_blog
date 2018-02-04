@@ -1,0 +1,24 @@
+baseurl = "https://example.com"
+languageCode = "en"
+title = "Currency | Thesis 2018"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/letspresto\">Patrick Presto</a> | 2018"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/letspresto"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/letspresto"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/patrickpresto/"
+fa_icon = "fa-linkedin-square"
