@@ -4,6 +4,8 @@ title = "Currency | Thesis 2018"
 theme = "hemingway"
 copyright = "&copy; <a href=\"https://github.com/letspresto\">Patrick Presto</a> | 2018"
 googleAnalytics = ""
+publishDir = "docs"
+
 
 [params]
 
