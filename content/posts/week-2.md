@@ -1,5 +1,6 @@
 ---
-title: "Week 2 - "Mind on my money and my money on my mind"
+author: "Patrick Presto"
+title: "Week 2 | Mind on my money and my money on my mind"
 date: 2018-02-04T17:08:10-05:00
 draft: false
 ---
