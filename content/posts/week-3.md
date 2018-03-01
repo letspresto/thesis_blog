@@ -1,5 +1,5 @@
 ---
-title: "Week 3 - Human Foreign Exchange"
+title: "Week 3 | Human Foreign Exchange"
 date: 2018-02-13T09:41:35-05:00
 draft: false
 ---
