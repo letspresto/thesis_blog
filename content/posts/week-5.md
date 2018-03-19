@@ -1,7 +1,7 @@
 ---
 title: "Week 5 | Imagined Currency"
 date: 2018-03-19T12:51:51-04:00
-draft: true
+draft: false
 ---
 
 Recently on [Fresh Air](https://www.npr.org/2018/03/15/593863645/robots-are-now-creating-new-robots-tech-reporter-says), Cade Metz, a technology reporter, from the New York Times talked about how machines are learning on their own. My girlfriend forwarded me this episode because she found the discussion fitting considering I was utilizing machine learning techniques recently to help me find patterns in currency as part of my thesis. Here's Metz describing neural networks:
